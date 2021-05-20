@@ -9,7 +9,7 @@ gem 'faker'                     # ダミーデータ自動生成用
 gem 'bcrypt'                    # パスワード暗号化 "Use ActiveModel has_secure_password"
 
 gem 'sqlite3'
-gem 'puma', '~> 3.11'
+gem 'puma', '~> 4.3'
 gem 'sass-rails', '~> 5.0'      # SCSS(Syntactically Awesome StyleSheet：効率的にCSSが書ける言語)
 gem 'uglifier', '>= 1.3.0'
 gem 'coffee-rails', '~> 4.2'
